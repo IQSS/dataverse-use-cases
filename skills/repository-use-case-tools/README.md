@@ -4,7 +4,7 @@ A Claude skill that converts a PDF of a data repository use case into a Markdown
 
 ## Install
 
-**Claude.ai:** Download `repository-use-case-to-markdown.zip` from this repository's [Releases](../../releases) page, then upload it under **Settings → Capabilities → Skills**.
+**Claude.ai:** Download this folder `repository-use-case-to-markdown` from this repository's [Releases](../../releases) page, then upload it under **Settings → Capabilities → Skills**.
 
 **Claude Code:** Clone or copy this folder into `~/.claude/skills/` for personal use, or into `.claude/skills/` inside a project:
 
