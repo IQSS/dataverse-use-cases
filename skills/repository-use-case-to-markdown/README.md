@@ -1,6 +1,6 @@
 # repository-use-case-to-markdown
 
-A Claude skill that converts a PDF of a data repository use case into a Markdown file. The Markdown keeps the photos, logos, screenshots, QR codes, header banners and hyperlinks from the PDF. It's built for Harvard Dataverse use cases, and it works for similar data sharing stories from other repositories.
+A Claude skill that converts a PDF of a data repository use case into a Markdown file. The Markdown keeps the photos, logos, screenshots, QR codes, header banners and hyperlinks from the PDF.
 
 ## Install
 
